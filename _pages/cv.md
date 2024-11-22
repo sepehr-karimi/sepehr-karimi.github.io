@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV [here](https://github.com/sepehr-karimi/sepehr-karimi.github.io/raw/master/files/CV.pdf).
+Download Full version of My CV [here](https://github.com/sepehr-karimi/sepehr-karimi.github.io/raw/master/files/CV.pdf).
 
 ---
 
@@ -93,5 +93,3 @@ You can download my full CV [here](https://github.com/sepehr-karimi/sepehr-karim
   - Implemented machine learning classifiers for EEG data with performance evaluations.
 
 ---
-
-This structure maintains consistency, emphasizes your strengths, and improves readability. It’s ready for your site!
