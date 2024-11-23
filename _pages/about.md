@@ -10,23 +10,23 @@ redirect_from:
 
 ## **About Me**
 
-I am currently pursuing a **Master's degree in Computer Engineering** at the [ECE School of the University of Tehran](https://ece.ut.ac.ir/en/ece), Iran. My research interests lie at the intersection of **Natural Language Processing (NLP)**, **Graph Neural Networks (GNNs)**, and **Social Network Analysis**. I am a **research assistant** at the Social Networks Laboratory, where I work under the mentorship of [Dr. Masoud Asadpour](https://scholar.google.com/citations?user=MKwwcvIAAAAJ&hl=en). My thesis focuses on *Retweet Prediction using Graph Neural Networks and Representation Learning*, aiming to predict user interactions on platforms like X (formerly Twitter).
+I recently got my **Master's degree in Computer Engineering** at the [ECE School of the University of Tehran](https://ece.ut.ac.ir/en/ece), Iran. My research interests lie at the intersection of **Natural Language Processing (NLP)**, **Graph Neural Networks (GNNs)**, and **Social Network Analysis**. I am a **research assistant** at the Social Networks Laboratory, where I work under the mentorship of [Dr. Masoud Asadpour](https://scholar.google.com/citations?user=MKwwcvIAAAAJ&hl=en). My thesis focuses on *Retweet Prediction using Graph Neural Networks and Representation Learning*, aiming to predict user interactions on platforms like X (formerly Twitter).
 
 In addition to my academic endeavors, I am actively engaged in various collaborative research projects with universities like **Columbia University** and **Nottingham Trent University**. These projects explore advanced topics in clinical decision support using **large language models (LLMs)** and early detection of **Alzheimer’s Disease** using EEG and deep learning techniques.
 
-### **Professional Highlights**
+<!-- ### **Professional Highlights**
 - **Co-Founder and AI Engineer** at SofiaMind Chatbot, where I integrate cutting-edge NLP models for real-time conversational AI.
-- **Data Scientist** at OptiGrid Pty Ltd, working on energy optimization through advanced data modeling and backend development.
+- **Data Scientist** at OptiGrid Pty Ltd, working on energy optimization through advanced data modeling and backend development. -->
 
 ---
 
-## **Research Interests**
+<!-- ## **Research Interests**
 My research interests span across:
 - **Natural Language Processing (NLP):** Applied NLP, conversational AI, and information extraction.
 - **Graph Neural Networks (GNNs):** Applications in social network analysis and interaction prediction.
 - **Data Mining:** Representation learning on large-scale social networks.
 - **Computational Social Science:** Investigating the dynamics of online social platforms.
-- **Deep Learning:** Leveraging advanced neural architectures for real-world applications.
+- **Deep Learning:** Leveraging advanced neural architectures for real-world applications. -->
 
 ---
 
@@ -72,10 +72,10 @@ My research interests span across:
 
 ---
 
-## **Selected Honors**
+<!-- ## **Selected Honors**
 - Ranked **16th** in the national Ph.D. entrance exam for Iranian universities (2023).  
 - Ranked within the **top 0.1%** in the national master’s entrance exam (2021).  
-- Ranked within the **top 0.4%** in the nationwide B.Sc. entrance exam (2016).
+- Ranked within the **top 0.4%** in the nationwide B.Sc. entrance exam (2016). -->
 
 ---
 
