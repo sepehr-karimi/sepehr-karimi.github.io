@@ -18,32 +18,25 @@ In addition to my academic endeavors, I am actively engaged in various collabora
 
 ## **Education**
 - **M.Sc. in Computer Engineering**, University of Tehran (2021 – 2024)  
-  *GPA*: 17.29/20  
-  - Thesis: *Retweet Prediction using Graph Neural Networks and Representation Learning*  
-  - Supervisor: [Dr. Masoud Asadpour](https://scholar.google.com/citations?user=MKwwcvIAAAAJ&hl=en)
-
 - **B.Sc. in Electrical Engineering**, Amirkabir University of Technology - Tehran Polytechnic (2016 – 2021)  
-  *GPA (Last Two Years)*: 17.1/20  
-  - Undergraduate Thesis: *Applying reinforcement learning methods in solving differential games*  
-  - Supervisor: [Dr. Mohammad Bagher Menhaj](https://scholar.google.com/citations?hl=en&user=0EN-JbQAAAAJ)
 
 ---
 
-## **Research Experience**
+## **RECENT Research Experience**
 - **Research Assistant**, Social Network Laboratory, University of Tehran (October 2021 – Present)  
-  - Developing models for interaction prediction on Twitter (X) using **graph-based embeddings** and **textual features**.  
-  - Focused on leveraging Graph Attention Networks for network representation learning.  
+  <!-- - Developing models for interaction prediction on Twitter (X) using **graph-based embeddings** and **textual features**.  
+  - Focused on leveraging Graph Attention Networks for network representation learning.   -->
 
 - **Research Assistant**, Columbia University, USA (January 2024 – Present)  
-  - Developing LLM-based pipelines for real-time **clinical decision support** systems.  
-  - Researching the optimization of in-context learning for **diagnostic applications**.
+  <!-- - Developing LLM-based pipelines for real-time **clinical decision support** systems.  
+  - Researching the optimization of in-context learning for **diagnostic applications**. -->
 
 - **Research Assistant**, Nottingham Trent University, UK (February 2024 – Present)  
-  - Conducting a **systematic review** of deep learning methods applied to EEG data for detecting Alzheimer’s Disease.  
-  - Collaborating with multidisciplinary teams for neurodegenerative disease research.  
+  <!-- - Conducting a **systematic review** of deep learning methods applied to EEG data for detecting Alzheimer’s Disease.  
+  - Collaborating with multidisciplinary teams for neurodegenerative disease research.   -->
 
-- **Research Assistant**, Computational Intelligence Laboratory, Amirkabir University (January 2021 – September 2021)  
-  - Explored **Deep Reinforcement Learning** (Deep RL) approaches for differential game solutions.  
+<!-- - **Research Assistant**, Computational Intelligence Laboratory, Amirkabir University (January 2021 – September 2021)   -->
+  <!-- - Explored **Deep Reinforcement Learning** (Deep RL) approaches for differential game solutions.   -->
 
 ---
 
@@ -57,18 +50,15 @@ In addition to my academic endeavors, I am actively engaged in various collabora
   - Performing data analysis to enhance system efficiency.  
 
 ---
-
-
-
 ## ** Recent Publications**
 For a complete list of my publications, visit the [Publications](/publications/) section.  
 - **Deep Learning Approaches in EEG Analysis for Early Detection of Alzheimer's Disease and Mild Cognitive Impairment: A Mini Systematic Review**  
   Authors: Tahoura Morovati\*, Hamed Vaezi\*, **Sepehr Karimi\***, et al.  
   Published in: International Conference on Applied Intelligence and Informatics (Accepted, 2024).  
 
-- **Enhancing Alzheimer's Detection with Reasoning-Augmented In-Context Learning**  
+<!-- - **Enhancing Alzheimer's Detection with Reasoning-Augmented In-Context Learning**  
   Authors: MohammadJavad Momeni\*, **Sepehr Karimi\***, Dr. Maryam Zolnoori  
-  Status: Under preparation.  
+  Status: Under preparation.   -->
 
 ---
 
