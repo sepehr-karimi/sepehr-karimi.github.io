@@ -14,21 +14,7 @@ I recently got my **Master's degree in Computer Engineering** at the [ECE School
 
 In addition to my academic endeavors, I am actively engaged in various collaborative research projects with universities like **Columbia University** and **Nottingham Trent University**. These projects explore advanced topics in clinical decision support using **large language models (LLMs)** and early detection of **Alzheimer’s Disease** using EEG and deep learning techniques.
 
-<!-- ### **Professional Highlights**
-- **Co-Founder and AI Engineer** at SofiaMind Chatbot, where I integrate cutting-edge NLP models for real-time conversational AI.
-- **Data Scientist** at OptiGrid Pty Ltd, working on energy optimization through advanced data modeling and backend development. -->
 
----
-
-<!-- ## **Research Interests**
-My research interests span across:
-- **Natural Language Processing (NLP):** Applied NLP, conversational AI, and information extraction.
-- **Graph Neural Networks (GNNs):** Applications in social network analysis and interaction prediction.
-- **Data Mining:** Representation learning on large-scale social networks.
-- **Computational Social Science:** Investigating the dynamics of online social platforms.
-- **Deep Learning:** Leveraging advanced neural architectures for real-world applications. -->
-
----
 
 ## **Education**
 - **M.Sc. in Computer Engineering**, University of Tehran (2021 – 2024)  
@@ -72,23 +58,9 @@ My research interests span across:
 
 ---
 
-<!-- ## **Selected Honors**
-- Ranked **16th** in the national Ph.D. entrance exam for Iranian universities (2023).  
-- Ranked within the **top 0.1%** in the national master’s entrance exam (2021).  
-- Ranked within the **top 0.4%** in the nationwide B.Sc. entrance exam (2016). -->
 
----
 
-## **Technical Skills**
-- **Programming:** Python, C/C++, R, MATLAB, SQL/NoSQL  
-- **Machine Learning Tools:** PyTorch, TensorFlow, HuggingFace Transformers, Scikit-learn  
-- **Development Tools:** AWS, Docker, Jupyter Notebook, Git  
-- **Embedded Systems:** STM32, Arduino, Raspberry Pi  
-- **Soft Skills:** Teamwork, problem-solving, and project management.  
-
----
-
-## **Publications**
+## ** Recent Publications**
 For a complete list of my publications, visit the [Publications](/publications/) section.  
 - **Deep Learning Approaches in EEG Analysis for Early Detection of Alzheimer's Disease and Mild Cognitive Impairment: A Mini Systematic Review**  
   Authors: Tahoura Morovati\*, Hamed Vaezi\*, **Sepehr Karimi\***, et al.  
@@ -100,10 +72,19 @@ For a complete list of my publications, visit the [Publications](/publications/)
 
 ---
 
-## **Languages**
-- **English:** Fluent (TOEFL Score: 104 – Listening: 29, Reading: 27, Speaking: 25, Writing: 23).  
-- **Persian:** Native.
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.blog reversed %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ---
 
-Feel free to reach out to me via [email](mailto:sepkarimia@gmail.com) or explore my [GitHub](https://github.com/sepehr-karimi) and [Personal Website](https://sepehr-karimi.github.io) for more information.
+
+Feel free to reach out to me via [email](mailto:sepkarimia@gmail.com) or explore my [GitHub](https://github.com/sepehr-karimi).
