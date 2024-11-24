@@ -26,7 +26,7 @@ In addition to my academic endeavors, I am actively engaged in various collabora
 - **Research Assistant**, Social Network Laboratory, University of Tehran (October 2021 – Present)  
 
   - Developing models for interaction prediction on Twitter (X) using **graph-based embeddings** and **textual features**.  
-  - Focused on leveraging Graph Attention Networks for network representation learning.   -->
+  - Focused on leveraging Graph Attention Networks for network representation learning.  
 
 - **Research Assistant**, Columbia University, USA (January 2024 – Present)  
 
