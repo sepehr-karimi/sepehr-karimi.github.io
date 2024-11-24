@@ -32,11 +32,14 @@ In addition to my academic endeavors, I am actively engaged in various collabora
   - Researching the optimization of in-context learning for **diagnostic applications**. -->
 
 - **Research Assistant**, Nottingham Trent University, UK (February 2024 – Present)  
-  <!-- - Conducting a **systematic review** of deep learning methods applied to EEG data for detecting Alzheimer’s Disease.  
-  - Collaborating with multidisciplinary teams for neurodegenerative disease research.   -->
 
-<!-- - **Research Assistant**, Computational Intelligence Laboratory, Amirkabir University (January 2021 – September 2021)   -->
-  <!-- - Explored **Deep Reinforcement Learning** (Deep RL) approaches for differential game solutions.   -->
+<!-- 
+
+  - Conducting a **systematic review** of deep learning methods applied to EEG data for detecting Alzheimer’s Disease.  
+  - Collaborating with multidisciplinary teams for neurodegenerative disease research.  
+
+- **Research Assistant**, Computational Intelligence Laboratory, Amirkabir University (January 2021 – September 2021)  
+  - Explored **Deep Reinforcement Learning** (Deep RL) approaches for differential game solutions.   -->
 
 ---
 
