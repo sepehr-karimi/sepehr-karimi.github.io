@@ -20,22 +20,20 @@ In addition to my academic endeavors, I am actively engaged in various collabora
 - **M.Sc. in Computer Engineering**, University of Tehran (2021 – 2024)  
 - **B.Sc. in Electrical Engineering**, Amirkabir University of Technology - Tehran Polytechnic (2016 – 2021)  
 
----
+<!-- ---
 
 ## **RECENT Research Experience**
 - **Research Assistant**, Social Network Laboratory, University of Tehran (October 2021 – Present)  
 
-  <!-- - Developing models for interaction prediction on Twitter (X) using **graph-based embeddings** and **textual features**.  
+  - Developing models for interaction prediction on Twitter (X) using **graph-based embeddings** and **textual features**.  
   - Focused on leveraging Graph Attention Networks for network representation learning.   -->
 
 - **Research Assistant**, Columbia University, USA (January 2024 – Present)  
 
-  <!-- - Developing LLM-based pipelines for real-time **clinical decision support** systems.  
-  - Researching the optimization of in-context learning for **diagnostic applications**. -->
+  - Developing LLM-based pipelines for real-time **clinical decision support** systems.  
+  - Researching the optimization of in-context learning for **diagnostic applications**.
 
 - **Research Assistant**, Nottingham Trent University, UK (February 2024 – Present)  
-
-<!-- 
 
   - Conducting a **systematic review** of deep learning methods applied to EEG data for detecting Alzheimer’s Disease.  
   - Collaborating with multidisciplinary teams for neurodegenerative disease research.  
