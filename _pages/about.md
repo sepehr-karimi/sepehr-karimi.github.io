@@ -24,10 +24,12 @@ In addition to my academic endeavors, I am actively engaged in various collabora
 
 ## **RECENT Research Experience**
 - **Research Assistant**, Social Network Laboratory, University of Tehran (October 2021 – Present)  
+
   <!-- - Developing models for interaction prediction on Twitter (X) using **graph-based embeddings** and **textual features**.  
   - Focused on leveraging Graph Attention Networks for network representation learning.   -->
 
 - **Research Assistant**, Columbia University, USA (January 2024 – Present)  
+
   <!-- - Developing LLM-based pipelines for real-time **clinical decision support** systems.  
   - Researching the optimization of in-context learning for **diagnostic applications**. -->
 
@@ -40,6 +42,23 @@ In addition to my academic endeavors, I am actively engaged in various collabora
 
 - **Research Assistant**, Computational Intelligence Laboratory, Amirkabir University (January 2021 – September 2021)  
   - Explored **Deep Reinforcement Learning** (Deep RL) approaches for differential game solutions.   -->
+
+
+---
+## **Recent News**
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.blog reversed %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+  ## {{ year }}
+  {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 
 ---
 
@@ -65,17 +84,6 @@ For a complete list of my publications, visit the [Publications](/publications/)
 
 ---
 
-
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.blog reversed %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ---
 
