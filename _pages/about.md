@@ -52,7 +52,7 @@ In addition to my academic endeavors, I am actively engaged in various collabora
 {% for post in site.blog reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-  ## {{ year }}
+  
   {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
