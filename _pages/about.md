@@ -10,21 +10,11 @@ redirect_from:
 
 ## **About Me**
 
-I recently got my **Master's degree in Computer Engineering** at the [ECE School of the University of Tehran](https://ece.ut.ac.ir/en/ece), Iran. My research interests lie at the intersection of **Natural Language Processing (NLP)**, **Social Network Analysis** and **Applied Machine Learning** techniques for solving real-world problems. I am a **research assistant** at the Social Networks Laboratory, where I work under the mentorship of [Dr. Masoud Asadpour](https://scholar.google.com/citations?user=MKwwcvIAAAAJ&hl=en). My thesis focuses on *Retweet Prediction using Graph Neural Networks and Representation Learning*, aiming to predict user interactions on platforms like X (formerly Twitter).
-
-In addition to my academic endeavors, I am actively engaged in various collaborative research projects with universities like **Columbia University** and **Nottingham Trent University**. These projects explore advanced topics in clinical decision support using **large language models (LLMs)** and early detection of **Alzheimer’s Disease** using EEG and deep learning techniques.
-
-
-
-
-I hold a **Master's degree in Computer Engineering** from the [ECE School of the University of Tehran](https://ece.ut.ac.ir/en/ece), where my research spans **Natural Language Processing (NLP)**, **Machine Learning (ML) applications**, and **Social Network Analysis**. As a **Research Assistant** at the Social Networks Laboratory, I work under the mentorship of **Dr. Masoud Asadpour** to investigate cutting-edge techniques in predictive modeling and user interaction analysis on social media platforms. This lead to my **Master's thesis**, titled *"Retweet Prediction using Graph Neural Networks and Representation Learning,"* focuses on predicting user interactions, such as retweets, on platforms like X (formerly Twitter). By leveraging **Graph Neural Networks (GNNs)** and **Representation Learning**, my research aims to improve the understanding of content diffusion and user behavior in dynamic, large-scale social networks.
+I recently got my **Master's degree in Computer Engineering** at the [ECE School of the University of Tehran](https://ece.ut.ac.ir/en/ece), Iran. My research interests lie at the **Natural Language Processing (NLP)**, **Social Network Analysis** and **Applied Machine Learning** techniques for solving real-world problem. As a **Research Assistant** at the Social Networks Laboratory, I work under the mentorship of **Dr. Masoud Asadpour** to investigate cutting-edge techniques in predictive modeling and user interaction analysis on social media platforms. This lead to my **Master's thesis**, titled *"Retweet Prediction using Graph Neural Networks and Representation Learning,"* focuses on predicting user interactions, such as retweets, on platforms like X (formerly Twitter). By leveraging **Graph Neural Networks (GNNs)** and **Representation Learning**, my research aims to improve the understanding of content diffusion and user behavior in dynamic, large-scale social networks.
 
 I am also involved in collaborative research projects with **Columbia University** and **Nottingham Trent University**, exploring the use of **Large Language Models (LLMs)** for **clinical decision support** and the **early detection of Alzheimer's Disease**. In these projects, I apply **EEG signal analysis**, **deep learning**, and **multimodal data** to develop predictive models with potential applications in healthcare.
 
 My research interests are at the intersection of **AI**, **data science**, and **health informatics**, with a focus on applying advanced ML techniques to solve complex, real-world problems.
-
-
-
 
 
 ## **Education**
