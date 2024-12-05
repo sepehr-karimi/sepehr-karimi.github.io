@@ -14,8 +14,6 @@ I recently got my **Master's degree in Computer Engineering** at the [ECE School
 
 I am also involved in collaborative research projects with **Columbia University** and **Nottingham Trent University**, exploring the use of **Large Language Models (LLMs)** for **clinical decision support** and the **early detection of Alzheimer's Disease**. In these projects, I apply **EEG signal analysis**, **deep learning**, and **multimodal data** to develop predictive models with potential applications in healthcare.
 
-My research interests are at the intersection of **AI**, **data science**, and **health informatics**, with a focus on applying advanced ML techniques to solve complex, real-world problems.
-
 
 ## **Education**
 - **M.Sc. in Computer Engineering**, University of Tehran (2021 – 2024)  
