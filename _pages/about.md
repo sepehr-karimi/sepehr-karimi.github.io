@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sepehr Karimi Arpanahi"
+title: "Sepehr Karimi"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -10,38 +10,29 @@ redirect_from:
 
 ## **About Me**
 
-I recently got my **Master's degree in Computer Engineering** at the [ECE School of the University of Tehran](https://ece.ut.ac.ir/en/ece), Iran. My research interests lie at the intersection of **Natural Language Processing (NLP)**, **Social Network Analysis** and **Applied Machine Learning** techniques for solving real-world problem. As a **Research Assistant** at the Social Networks Laboratory, I work under the mentorship of **Dr. Masoud Asadpour** to investigate cutting-edge techniques in predictive modeling and user interaction analysis on social media platforms. This lead to my **Master's thesis**, titled *"Retweet Prediction using Graph Neural Networks and Representation Learning,"* focuses on predicting user interactions, such as retweets, on platforms like X (formerly Twitter). By leveraging **Graph Neural Networks (GNNs)** and **Representation Learning**, my research aims to improve the understanding of content diffusion and user behavior in dynamic, large-scale social networks.
+I am a **Machine Learning and AI researcher** currently pursuing my **PhD in Electrical and Electronic Engineering** at the **University of Adelaide**, Australia, under the supervision of **Dr. Ali Pourmousavi Kani**. My research focuses on developing **unified, data-driven frameworks** for **electricity price forecasting** and **battery energy storage system (BESS) operation** in the **Australian National Electricity Market (NEM)**.
 
-I am also involved in collaborative research projects with **Columbia University** and **Nottingham Trent University**, exploring the use of **Large Language Models (LLMs)** for **clinical decision support** and the **early detection of Alzheimer's Disease**. In these projects, I apply **EEG signal analysis**, **deep learning**, and **multimodal data** to develop predictive models with potential applications in healthcare.
+Before starting my PhD, I completed my **Master’s degree in Computer Engineering** at the University of Tehran. My background spans **Deep Learning**, **Reinforcement Learning**, **Natural Language Processing**, and **Social Network Analysis**. As a researcher at the **NLP Lab**, I contributed to several projects involving **domain-specific question answering**, **LLM-based conversational agents**, and **multilingual chatbot systems** for low-resource languages.
 
+I have also collaborated with research groups at **Columbia University** and **Nottingham Trent University** on projects involving **clinical NLP**, **EEG-based disease detection**, and **multimodal deep learning**, resulting in multiple publications in applied machine learning and healthcare.
 
-## **Education**
-- **M.Sc. in Computer Engineering**, University of Tehran (2021 – 2024)  
-- **B.Sc. in Electrical Engineering**, Amirkabir University of Technology - Tehran Polytechnic (2016 – 2021)  
+My broader research interests include:
 
-<!-- ---
+- price forecasting & energy market analytics  
+- Time-series modeling and decision-making under uncertainty  
+- NLP and multimodal deep learning  
 
-## **RECENT Research Experience**
-- **Research Assistant**, Social Network Laboratory, University of Tehran (October 2021 – Present)  
-
-  - Developing models for interaction prediction on Twitter (X) using **graph-based embeddings** and **textual features**.  
-  - Focused on leveraging Graph Attention Networks for network representation learning.  
-
-- **Research Assistant**, Columbia University, USA (January 2024 – Present)  
-
-  - Developing LLM-based pipelines for real-time **clinical decision support** systems.  
-  - Researching the optimization of in-context learning for **diagnostic applications**.
-
-- **Research Assistant**, Nottingham Trent University, UK (February 2024 – Present)  
-
-  - Conducting a **systematic review** of deep learning methods applied to EEG data for detecting Alzheimer’s Disease.  
-  - Collaborating with multidisciplinary teams for neurodegenerative disease research.  
-
-- **Research Assistant**, Computational Intelligence Laboratory, Amirkabir University (January 2021 – September 2021)  
-  - Explored **Deep Reinforcement Learning** (Deep RL) approaches for differential game solutions.   -->
-
+I aim to bridge **machine learning**, **optimization**, and **real-world energy systems** to enable more efficient, reliable, and sustainable grid operations.
 
 ---
+
+## **Education**
+- **Ph.D. in Electrical and Electronic Engineering**, University of Adelaide (2024 – Present)  
+- **M.Sc. in Computer Engineering**, University of Tehran (2021 – 2024)  
+- **B.Sc. in Electrical Engineering**, Amirkabir University of Technology – Tehran Polytechnic (2016 – 2021)  
+
+---
+
 ## **Recent News**
 
 {% include base_path %}
@@ -55,34 +46,39 @@ I am also involved in collaborative research projects with **Columbia University
   {% include archive-single.html %}
 {% endfor %}
 
-
-
 ---
 
 ## **Professional Experience**
-- **Co-Founder and AI Engineer**, SofiaMind Chatbot (September 2023 – Present)  
-  - Building an **intelligent chatbot** powered by **LLMs** and Retrieval-Augmented Generation (RAG).  
-  - Integrating cutting-edge NLP techniques for real-time customer support.  
 
-- **Data Scientist and Backend Developer**, OptiGrid Pty Ltd (October 2023 – Present)  
-  - Developing APIs for data-driven energy optimization.  
-  - Performing data analysis to enhance system efficiency.  
+- **Data Scientist & Backend Engineer**, OptiGrid Pty Ltd (October 2023 – Present)  
+  - Building machine learning pipelines for **electricity price forecasting**, **energy optimization**, and **battery bidding strategies**.  
+  - Developing backend systems and APIs for scalable, data-driven energy analytics.  
 
----
-## ** Recent Publications**
-For a complete list of my publications, visit the [Publications](/publications/) section.  
-- **Deep Learning Approaches in EEG Analysis for Early Detection of Alzheimer's Disease and Mild Cognitive Impairment: A Mini Systematic Review**  
-  Authors: Tahoura Morovati\*, Hamed Vaezi\*, **Sepehr Karimi\***, et al.  
-  Published in: International Conference on Applied Intelligence and Informatics (Accepted, 2024).  
-
-<!-- - **Enhancing Alzheimer's Detection with Reasoning-Augmented In-Context Learning**  
-  Authors: MohammadJavad Momeni\*, **Sepehr Karimi\***, Dr. Maryam Zolnoori  
-  Status: Under preparation.   -->
+- **Co-Founder & AI Engineer**, SofiaMind (September 2023 – Present)  
+  - Developing **LLM-powered chatbots** and **RAG-based** conversational systems.  
+  - Focused on multilingual and domain-specific dialogue models.  
 
 ---
+## **Selected Publications**
+For a complete list, visit the [Publications](/publications/) page.
 
+- **Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies**  
+  Fatemeh Taherinezhad, Mohamad Javad Momeni Nezhad, **Sepehr Karimi**, Sina Rashidi, Ali Zolnouri, Maryam Dadkhah, Yasaman Haghbin, Hossein AzadMaleki, Maryam Zolnoori  
+  *arXiv preprint arXiv:2509.03525*, 2025.  
+  🔗 https://arxiv.org/abs/2509.03525
+
+- **PersianMedQA: Language-Centric Evaluation of LLMs in the Persian Medical Domain**  
+  Mohammad Javad Ranjbar Kalahroodi, Amirhossein Sheikholselami, **Sepehr Karimi**, Sepideh Ranjbar Kalahroodi, Heshaam Faili, Azadeh Shakery  
+  *arXiv preprint arXiv:2506.00250*, 2025.  
+  🔗 https://arxiv.org/abs/2506.00250
+
+- **Deep Learning Approaches in EEG Analysis for Early Detection of Alzheimer’s Disease and Mild Cognitive Impairment: A Mini Systematic Review**  
+  Tahoura Morovati, Hamed Vaezi, **Sepehr Karimi**, Md Mahmud, Michael Crook-Rumsey, Nicky Heym, et al.  
+  *International Conference on Applied Intelligence and Informatics*, pp. 63–81, 2024.    
+  🔗 https://link.springer.com/chapter/10.1007/978-3-032-04657-4_5
 
 ---
 
+## **Contact**
+Feel free to reach out via [email](mailto:sepkarimia@gmail.com) or explore my work on [GitHub](https://github.com/sepehr-karimi).
 
-Feel free to reach out to me via [email](mailto:sepkarimia@gmail.com) or explore my [GitHub](https://github.com/sepehr-karimi).
