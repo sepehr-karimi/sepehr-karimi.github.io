@@ -12,8 +12,8 @@ main:
   - title: "Blog Posts"
     url: /blog/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   # - title: "google"
   #   url: /googled86dc6ed7cde342e.html
