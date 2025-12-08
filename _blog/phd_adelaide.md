@@ -11,8 +11,6 @@ tags:
 
 ⚡ I am excited to share that I have officially started my **PhD** at the **University of Adelaide**, supported through a **National Industry PhD Project** in collaboration with **OptiGrid Pty Ltd**.
 
-This project — *Smarter Batteries for a Smarter Grid* — aims to address a key challenge in the **Australian National Electricity Market (NEM)**:  
-
 ---
 
 ## 🔋 Research Focus
