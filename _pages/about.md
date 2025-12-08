@@ -65,17 +65,17 @@ For a complete list of my papers, visit my [Google Scholar](https://scholar.goog
 - **Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies**  
   Fatemeh Taherinezhad, Mohamad Javad Momeni Nezhad, **Sepehr Karimi**, Sina Rashidi, Ali Zolnouri, Maryam Dadkhah, Yasaman Haghbin, Hossein AzadMaleki, Maryam Zolnoori  
   *arXiv preprint arXiv:2509.03525*, 2025.  
-  🔗 https://arxiv.org/abs/2509.03525
+  🔗 [https://arxiv.org/abs/2509.03525](https://arxiv.org/abs/2509.03525)
 
 - **PersianMedQA: Language-Centric Evaluation of LLMs in the Persian Medical Domain**  
-  Mohammad Javad Ranjbar Kalahroodi, Amirhossein Sheikholselami, **Sepehr Karimi**, Sepideh Ranjbar Kalahroodi, Heshaam Faili, Azadeh Shakery  
+  Mohammad Javad Ranjbar Kalahroodi, **Sepehr Karimi***, Amirhossein Sheikholselami*,  Sepideh Ranjbar Kalahroodi, Heshaam Faili, Azadeh Shakery  
   *arXiv preprint arXiv:2506.00250*, 2025.  
-  🔗 https://arxiv.org/abs/2506.00250
+  🔗 [https://arxiv.org/abs/2506.00250](https://link.springer.com/chapter/10.1007/978-3-032-04657-4_5)
 
 - **Deep Learning Approaches in EEG Analysis for Early Detection of Alzheimer’s Disease and Mild Cognitive Impairment: A Mini Systematic Review**  
-  Tahoura Morovati, Hamed Vaezi, **Sepehr Karimi**, Md Mahmud, Michael Crook-Rumsey, Nicky Heym, et al.  
+  Tahoura Morovati*, Hamed Vaezi*, **Sepehr Karimi***, Md Mahmud, Michael Crook-Rumsey, Nicky Heym, et al.  
   *International Conference on Applied Intelligence and Informatics*, pp. 63–81, 2024.    
-  🔗 https://link.springer.com/chapter/10.1007/978-3-032-04657-4_5
+  🔗 [https://link.springer.com/chapter/10.1007/978-3-032-04657-4_5](https://link.springer.com/chapter/10.1007/978-3-032-04657-4_5)
 
 ---
 
