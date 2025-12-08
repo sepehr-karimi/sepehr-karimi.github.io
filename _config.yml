@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sepehr Karimi Arpanahi"
+title                    : "Sepehr Karimi"
 title_separator          : "-"
-name                     : &name "Sepehr Karimi Arpanahi"
+name                     : &name "Sepehr Karimi"
 description              : &description "personal description"
 url                      : "https://sepehr-karimi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sepehr Karimi"
   avatar           : "profile-site.jpg"
-  bio              : "Master Student, Artificial Intelligence"
-  location         : "Tehran, Iran"
+  bio              : "PhD Student, AI Researcher, ML engineer"
+  location         : "Adelaide, Australia"
   employer         :
   pubmed           : 
   googlescholar    : 
