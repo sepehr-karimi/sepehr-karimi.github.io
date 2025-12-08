@@ -27,7 +27,7 @@ I aim to bridge **machine learning**, **optimization**, and **real-world energy 
 ---
 
 ## **Education**
-- **Ph.D. in Electrical and Electronic Engineering**, University of Adelaide (2024 – Present)  
+- **Ph.D. in Electrical and Electronic Engineering**, University of Adelaide (2025 – Present)  
 - **M.Sc. in Computer Engineering**, University of Tehran (2021 – 2024)  
 - **B.Sc. in Electrical Engineering**, Amirkabir University of Technology – Tehran Polytechnic (2016 – 2021)  
 
