@@ -10,7 +10,7 @@ redirect_from:
 
 ## **About Me**
 
-I am a **Machine Learning and AI researcher** currently pursuing my **PhD in Electrical and Electronic Engineering** at the **University of Adelaide**, Australia, under the supervision of **Dr. Ali Pourmousavi Kani**. My research focuses on developing **unified, data-driven frameworks** for **electricity price forecasting** and **battery energy storage system (BESS) operation** in the **Australian National Electricity Market (NEM)**.
+I am a **Machine Learning and AI researcher** currently pursuing my **PhD** at the **Adelaide University**, Australia, under the supervision of **Dr. Ali Pourmousavi Kani**. My research focuses on developing **unified, data-driven frameworks** for **electricity price forecasting** and **battery energy storage system (BESS) operation** in the **Australian National Electricity Market (NEM)**.
 
 Before starting my PhD, I completed my **Master’s degree in Computer Engineering** at the University of Tehran. My background spans **Deep Learning**, **Reinforcement Learning**, **Natural Language Processing**, and **Social Network Analysis**. As a researcher at the **NLP Lab**, I contributed to several projects involving **domain-specific question answering**, **LLM-based conversational agents**, and **multilingual chatbot systems** for low-resource languages.
 
@@ -60,7 +60,7 @@ I aim to bridge **machine learning**, **optimization**, and **real-world energy 
 
 ---
 ## **Selected Publications**
-For a complete list, visit the [Publications](/publications/) page.
+For a complete list of my papers, visit my [Google Scholar](https://scholar.google.com/citations?user=k4954-QAAAAJ).
 
 - **Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies**  
   Fatemeh Taherinezhad, Mohamad Javad Momeni Nezhad, **Sepehr Karimi**, Sina Rashidi, Ali Zolnouri, Maryam Dadkhah, Yasaman Haghbin, Hossein AzadMaleki, Maryam Zolnoori  
