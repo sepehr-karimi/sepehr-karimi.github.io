@@ -170,7 +170,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
       <li><a href="#about">About</a></li>
       <li><a href="#publications">Publications</a></li>
       <li><a href="#news">News</a></li>
-      <li><a href="/teaching/">Teaching</a></li>
+      <!-- <li><a href="/teaching/">Teaching</a></li> -->
       <li><a href="#contact">Contact</a></li>
     </ul>
   </div>
@@ -185,7 +185,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
     <div class="sk-hero-content">
       <h1>Sepehr Karimi</h1>
       <p class="sk-hero-role">PhD Researcher in AI &amp; Energy Systems</p>
-      <p class="sk-hero-affil">📍 University of Adelaide · Supervised by Dr. Ali Pourmousavi Kani</p>
+      <p class="sk-hero-affil">📍 Adelaide University</p>
       <div class="sk-tags">
         <span class="sk-tag">Machine Learning</span>
         <span class="sk-tag">Energy Forecasting</span>
@@ -194,9 +194,9 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
         <span class="sk-tag">BESS Optimization</span>
       </div>
       <div class="sk-btns">
-        <a href="/files/cv.pdf" class="sk-btn sk-btn-white">📄 Download CV</a>
+        <a href="/files/CV.pdf" class="sk-btn sk-btn-white">📄 Download CV</a>
         <a href="https://scholar.google.com/citations?user=k4954-QAAAAJ" class="sk-btn sk-btn-outline" target="_blank">🎓 Google Scholar</a>
-        <a href="mailto:sepkarimia@gmail.com" class="sk-btn sk-btn-outline">✉️ Email Me</a>
+        <a href="mailto:sepehr.karimi@adelaide.edu.au" class="sk-btn sk-btn-outline">✉️ Email Me</a>
         <a href="https://github.com/sepehr-karimi" class="sk-btn sk-btn-outline" target="_blank">💻 GitHub</a>
       </div>
     </div>
@@ -204,14 +204,6 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
 </section>
 
 <!-- SOCIAL STRIP -->
-<div class="sk-social">
-  <div class="sk-social-inner">
-    <a href="mailto:sepkarimia@gmail.com">✉️ sepkarimia@gmail.com</a>
-    <a href="https://www.linkedin.com/in/sepehrkarimia" target="_blank">🔗 LinkedIn</a>
-    <a href="https://github.com/sepehr-karimi" target="_blank">💻 GitHub</a>
-    <a href="https://scholar.google.com/citations?user=k4954-QAAAAJ" target="_blank">🎓 Google Scholar</a>
-  </div>
-</div>
 
 <!-- MAIN -->
 <div class="sk-main">
@@ -222,7 +214,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
     <div class="sk-card" id="about">
       <h2>👤 About Me</h2>
       <div class="sk-about">
-        <p>I am a <strong>Machine Learning and AI researcher</strong> pursuing my <strong>PhD at the University of Adelaide</strong>, Australia, under the supervision of <strong>Dr. Ali Pourmousavi Kani</strong>. My research focuses on developing <strong>unified, data-driven frameworks</strong> for electricity price forecasting and battery energy storage system (BESS) operation in the Australian National Electricity Market (NEM).</p>
+        <p>I am a <strong>Machine Learning and AI researcher</strong> pursuing my <strong>PhD at Adelaide University</strong>, Australia, under the supervision of <strong>Dr. Ali Pourmousavi Kani</strong>. My research focuses on developing <strong>unified, data-driven frameworks</strong> for electricity price forecasting and battery energy storage system (BESS) operation in the Australian National Electricity Market (NEM).</p>
         <p>Before starting my PhD, I completed my <strong>Master's degree in Computer Engineering</strong> at the University of Tehran, where I worked at the NLP Lab on domain-specific QA, LLM-based conversational agents, and multilingual chatbot systems. I have also collaborated with research groups at <strong>Columbia University</strong> and <strong>Nottingham Trent University</strong> on clinical NLP, EEG-based disease detection, and multimodal deep learning.</p>
         <div class="sk-interests">
           <span class="sk-interest">⚡ Electricity Price Forecasting</span>
@@ -240,10 +232,10 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
       <div class="sk-pub">
         <div class="sk-badges">
           <span class="sk-badge sk-badge-year">2025</span>
-          <span class="sk-badge sk-badge-pre">Preprint</span>
+          <span class="sk-badge sk-badge-pre">Accepted to JMIR</span>
         </div>
         <div class="sk-pub-title">Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies</div>
-        <div class="sk-pub-authors"><strong>Sepehr Karimi</strong>, Fatemeh Taherinezhad, M.J. Momeni Nezhad, Sina Rashidi, et al.</div>
+        <div class="sk-pub-authors">Fatemeh Taherinezhad, M.J. Momeni Nezhad, <strong>Sepehr Karimi</strong>, Sina Rashidi, et al.</div>
         <div class="sk-pub-venue">arXiv:2509.03525, 2025</div>
         <div class="sk-pub-links">
           <a href="https://arxiv.org/abs/2509.03525" class="sk-lnk sk-lnk-arxiv" target="_blank">arXiv</a>
@@ -253,7 +245,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
       <div class="sk-pub">
         <div class="sk-badges">
           <span class="sk-badge sk-badge-year">2025</span>
-          <span class="sk-badge sk-badge-pre">Preprint</span>
+          <span class="sk-badge sk-badge-pre">Accepted to LREC 2026</span>
         </div>
         <div class="sk-pub-title">PersianMedQA: Language-Centric Evaluation of LLMs in the Persian Medical Domain</div>
         <div class="sk-pub-authors">M.J. Ranjbar Kalahroodi, <strong>Sepehr Karimi*</strong>, A. Sheikholselami*, et al.</div>
@@ -286,7 +278,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
       <div class="sk-news-item">
         <div class="sk-news-date">Nov 2025</div>
         <div class="sk-news-body">
-          <a href="/blog/2024/09/starting-phd-adelaide/">Starting PhD at the University of Adelaide</a>
+          <a href="/blog/2024/09/starting-phd-adelaide/">Starting PhD at Adelaide University</a>
           <p>Commenced PhD supported by a National Industry PhD Project with OptiGrid Pty Ltd. ⚡</p>
         </div>
       </div>
@@ -334,7 +326,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
         <div class="sk-edu-dot" style="background:#0077b6"></div>
         <div>
           <div class="sk-edu-deg">PhD, Electrical &amp; Electronic Eng.</div>
-          <div class="sk-edu-uni">University of Adelaide</div>
+          <div class="sk-edu-uni"> Adelaide University</div>
           <div class="sk-edu-year">2025 – Present</div>
         </div>
       </div>
@@ -408,7 +400,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
     <div class="sk-card" id="contact">
       <h2>📬 Contact</h2>
       <a href="/files/cv.pdf" class="sk-contact-btn sk-contact-primary">📄 Download CV</a>
-      <a href="mailto:sepkarimia@gmail.com" class="sk-contact-btn sk-contact-secondary">✉️ sepkarimia@gmail.com</a>
+      <a href="mailto:sepehr.karimi@adelaide.edu.au" class="sk-contact-btn sk-contact-secondary">✉️ Email</a>
       <a href="https://www.linkedin.com/in/sepehrkarimia" class="sk-contact-btn sk-contact-secondary" target="_blank">🔗 LinkedIn</a>
       <a href="https://github.com/sepehr-karimi" class="sk-contact-btn sk-contact-secondary" target="_blank">💻 GitHub</a>
     </div>
@@ -417,6 +409,5 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
 </div>
 
 <div class="sk-footer">
-  © 2025 Sepehr Karimi · University of Adelaide ·
-  <a href="mailto:sepkarimia@gmail.com">sepkarimia@gmail.com</a>
+  © 2025 Sepehr Karimi · Adelaide University ·
 </div>
