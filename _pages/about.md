@@ -314,7 +314,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
       <h2>📊 At a Glance</h2>
       <div class="sk-stat-grid">
         <div class="sk-stat"><div class="sk-stat-num">3</div><div class="sk-stat-label">Publications</div></div>
-        <div class="sk-stat"><div class="sk-stat-num">2+</div><div class="sk-stat-label">Years Research</div></div>
+        <div class="sk-stat"><div class="sk-stat-num">4+</div><div class="sk-stat-label">Years Research</div></div>
         <div class="sk-stat"><div class="sk-stat-num">3</div><div class="sk-stat-label">Institutions</div></div>
         <div class="sk-stat"><div class="sk-stat-num">2</div><div class="sk-stat-label">Companies</div></div>
       </div>
@@ -399,7 +399,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; color: var(--text); line-he
 
     <div class="sk-card" id="contact">
       <h2>📬 Contact</h2>
-      <a href="/files/cv.pdf" class="sk-contact-btn sk-contact-primary">📄 Download CV</a>
+      <a href="/files/CV.pdf" class="sk-contact-btn sk-contact-primary">📄 Download CV</a>
       <a href="mailto:sepehr.karimi@adelaide.edu.au" class="sk-contact-btn sk-contact-secondary">✉️ Email</a>
       <a href="https://www.linkedin.com/in/sepehrkarimia" class="sk-contact-btn sk-contact-secondary" target="_blank">🔗 LinkedIn</a>
       <a href="https://github.com/sepehr-karimi" class="sk-contact-btn sk-contact-secondary" target="_blank">💻 GitHub</a>
