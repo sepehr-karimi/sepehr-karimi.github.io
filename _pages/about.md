@@ -11,11 +11,19 @@ redirect_from:
 /* ── Reset Jekyll/Minimal Mistakes interference ── */
 .masthead { display: none !important; }
 .page__footer { display: none !important; }
-#main { padding: 0 !important; max-width: 100% !important; }
-.page { padding: 0 !important; max-width: 100% !important; }
-.page__inner-wrap { padding: 0 !important; float: none !important; width: 100% !important; }
+#main { padding: 0 !important; max-width: 100% !important; float: none !important; width: 100% !important; }
+.page { padding: 0 !important; max-width: 100% !important; float: none !important; width: 100% !important; }
+.page__inner-wrap { padding: 0 !important; float: none !important; width: 100% !important; margin: 0 !important; }
+.page__content { padding: 0 !important; width: 100% !important; float: none !important; }
 .initial-content { padding: 0 !important; }
+.sidebar { display: none !important; }
+.sidebar__right { display: none !important; }
+article.page { margin: 0 !important; padding: 0 !important; }
 body { background: #f4f8fc !important; }
+/* Force full bleed */
+.page__hero, .page__hero--overlay { display: none !important; }
+#page-title { display: none !important; }
+h1.page__title { display: none !important; }
 
 /* ── Variables ── */
 :root {
